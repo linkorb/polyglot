@@ -1,0 +1,5 @@
+path: example/
+locales:
+    - nl_NL
+    - fr_FR
+    - zh_CN
